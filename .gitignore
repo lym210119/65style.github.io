@@ -1,3 +1,4 @@
 node_modules
 .vuepress/dist/
 super_secret.txt
+deploy_key
