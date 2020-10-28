@@ -12,6 +12,7 @@ cd .vuepress/dist
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
 
+git init
 git remote add origin https://github.com/65style/65style.github.io.git
 git add -A
 git commit -m 'deploy'
