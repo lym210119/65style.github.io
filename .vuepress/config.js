@@ -125,7 +125,7 @@ module.exports = {
         },
         {
           text: 'Copyright © 2020-present',
-          link: '',
+          link: '#',
         },
       ],
     },
@@ -177,34 +177,34 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#sitemap
      */
     sitemap: {
-      hostname: 'https://example.vuepress-theme-blog.ulivz.com/',
+      hostname: 'https://blog.65style.com/',
     },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#comment
      */
     comment: {
       service: 'disqus',
-      shortname: 'vuepress-plugin-blog',
+      shortname: '65style',
     },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#newsletter
      */
     newsletter: {
       endpoint:
-        'https://billyyyyy3320.us4.list-manage.com/subscribe/post?u=4905113ee00d8210c2004e038&amp;id=bd18d40138',
+        'https://65style.us2.list-manage.com/subscribe/post?u=4f3e6e952220cb3517cb77de4&amp;id=759e393024',
     },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#feed
      */
     feed: {
-      canonical_base: 'https://example.vuepress-theme-blog.ulivz.com/',
+      canonical_base: 'https://blog.65style.com',
     },
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#summary
      */
 
-    // summary:false,
+    summary: false,
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#summarylength

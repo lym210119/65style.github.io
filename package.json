@@ -10,9 +10,10 @@
   },
   "devDependencies": {
     "@vuepress/theme-blog": "^2.3.2",
-    "add": "^2.0.6",
     "vuepress": "^1.7.1",
-    "vuepress-plugin-aplayer": "^1.0.2",
-    "yarn": "^1.22.10"
+    "vuepress-plugin-aplayer": "^1.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
   }
 }

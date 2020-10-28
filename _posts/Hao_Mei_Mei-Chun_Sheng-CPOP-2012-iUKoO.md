@@ -6,11 +6,11 @@ tags:
   - iUKoO
 ---
 
-<!-- more -->
+![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Chun_Sheng-CPOP-2012-iUKoO/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back.jpg)
 
+![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cover](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Chun_Sheng-CPOP-2012-iUKoO/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cover.jpg)
 
-测试就啊反馈给联合国啦好啦adga
-![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back](@img/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back.jpg)
+![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Chun_Sheng-CPOP-2012-iUKoO/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof.jpg)
 
 <a-player 
     :options="{
@@ -26,4 +26,6 @@ tags:
     }"
 />
 
-[download](https://www83.zippyshare.com/v/ISRN4jst/file.html)
+
+<download url="https://www83.zippyshare.com/v/ISRN4jst/file.html"/>
+
