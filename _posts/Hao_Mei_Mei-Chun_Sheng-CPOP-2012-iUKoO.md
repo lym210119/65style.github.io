@@ -7,7 +7,7 @@ tags:
 ---
 
 <!-- more -->
-
+测试 Travis CI
 ![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back](@img/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-back.jpg)
 
 <a-player 
