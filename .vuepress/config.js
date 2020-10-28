@@ -23,8 +23,8 @@ module.exports = {
       },
     },
   },
-  title: '0day music cpop',
-  description: '0day music cpop',
+  title: '0day music',
+  description: '0day music',
   theme: '@vuepress/theme-blog',
   themeConfig: {
     /**
@@ -120,11 +120,11 @@ module.exports = {
       //   ],
       copyright: [
         {
-          text: 'Privacy Policy',
-          link: 'https://policies.google.com/privacy?hl=en-US',
+          text: 'Powered by VuePress',
+          link: 'https://vuepress.vuejs.org/',
         },
         {
-          text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+          text: 'Copyright © 2020-present',
           link: '',
         },
       ],
