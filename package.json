@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
+    "push": "git add . && git commit -m 'publish' && git push",
     "deploy": "sh deploy.sh"
   },
   "devDependencies": {
