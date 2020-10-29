@@ -121,7 +121,7 @@ export default {
 
     getAdFlyUrl(url) {
       console.log('getAdFlyUrl')
-      const apiUrl = `http://api.adf.ly/v1/shorten`
+      const apiUrl = `https://api.adf.ly/v1/shorten`
       return new Promise((resolve, reject) => {
         const data = qs.stringify({
           url: url,
