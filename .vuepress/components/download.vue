@@ -56,7 +56,7 @@ export default {
     }
 
     try {
-      var urlB = await this.getShorteStUrl(urlA)
+      var urlB = await this.getAdFlyUrl(urlA)
       console.log('urlB: ', urlB)
       this.downloadUrl = urlB
     } catch (error) {
@@ -64,14 +64,14 @@ export default {
       console.log('errorB: ', error)
     }
 
-    try {
-      var urlC = await this.getAdFlyUrl(urlB)
-      console.log('urlC: ', urlC)
-      this.downloadUrl = urlC
-    } catch (error) {
-      this.downloadUrl = urlB
-      console.log('errorC: ', error)
-    }
+    // try {
+    //   var urlC = await this.getAdFlyUrl(urlB)
+    //   console.log('urlC: ', urlC)
+    //   this.downloadUrl = urlC
+    // } catch (error) {
+    //   this.downloadUrl = urlB
+    //   console.log('errorC: ', error)
+    // }
   },
   methods: {
     getExeIoUrl(url) {
