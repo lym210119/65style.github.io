@@ -44,21 +44,33 @@ export default {
     },
   },
 
-  mounted() {
-    this.getExeIoUrl(this.url)
-      .then((url1) => {
-        console.log('url1 ', url1)
-        this.getOuoIoUrl(url1)
-          .then((url2) => {
-            this.downloadUrl = url2
-          })
-          .catch((url1) => {
-            this.downloadUrl = url1
-          })
-      })
-      .catch((url) => {
-        this.downloadUrl = url
-      })
+  async mounted() {
+    try {
+      var urlA = await this.getExeIoUrl(this.url)
+      console.log('urlA: ', urlA)
+      this.downloadUrl = urlA
+    } catch (error) {
+      this.downloadUrl = this.url
+      console.log('errorA: ', error)
+    }
+
+    try {
+      var urlB = await this.getShorteStUrl(urlA)
+      console.log('urlB: ', urlB)
+      this.downloadUrl = urlB
+    } catch (error) {
+      this.downloadUrl = urlA
+      console.log('errorB: ', error)
+    }
+
+    try {
+      var urlC = await this.getAdFlyUrl(urlB)
+      console.log('urlC: ', urlC)
+      this.downloadUrl = urlC
+    } catch (error) {
+      this.downloadUrl = urlB
+      console.log('errorC: ', error)
+    }
   },
   methods: {
     getExeIoUrl(url) {
@@ -75,33 +87,92 @@ export default {
             }
           })
           .catch((err) => {
-            console.log('err: ', err)
-            reject(url)
+            reject(err)
           })
       })
     },
 
-    getOuoIoUrl(url) {
-      console.log('getOuoIoUrl')
-      const apiUrl = `https://ouo.io/api/4bYD70sr?s=`
+    getShorteStUrl(url) {
+      console.log('getShorteStUrl')
+      const apiUrl = `https://api.shorte.st/v1/data/url`
+      const token = '5b4b18fd1ed64ace0e4779c56f25f2e1'
       return new Promise((resolve, reject) => {
         axios
-          .get(apiUrl + url, {
-            withCredentials: true,
-          })
+          .put(
+            apiUrl,
+            { urlToShorten: url },
+            {
+              headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'public-api-token': token,
+              },
+            }
+          )
           .then((res) => {
             const data = res.data
             console.log('data2: ', data)
-            if (data) {
-              resolve(data)
+            if (data.status === 'ok') {
+              resolve(data.shortenedUrl)
             }
           })
           .catch((err) => {
-            console.log('err: ', err)
-            reject(url)
+            reject(err)
           })
       })
     },
+
+    getAdFlyUrl(url) {
+      console.log('getAdFlyUrl')
+      const apiUrl = `http://api.adf.ly/v1/shorten`
+      return new Promise((resolve, reject) => {
+        axios
+          .post(
+            apiUrl,
+            {
+              url: url,
+              _user_id: '24220063',
+              _api_key: '15c8d2b1cd28e56db36e7cce06b14f5f',
+              csrfToken: '5b0888f137038ad7fee8eff9f691d170',
+              advert_type: 1,
+              domain: 'adf.ly',
+            },
+            // {
+            //   headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            // }
+          )
+          .then((res) => {
+            const data = res.data
+            console.log('data3: ', data)
+            if (data.data.length) {
+              resolve(data.data[0]['short_url'])
+            }
+          })
+          .catch((err) => {
+            reject(err)
+          })
+      })
+    },
+    // getOuoIoUrl(url) {
+    //   console.log('getOuoIoUrl')
+    //   const apiUrl = `https://ouo.io/api/4bYD70sr?s=`
+    //   return new Promise((resolve, reject) => {
+    //     axios
+    //       .get(apiUrl + url, {
+    //         withCredentials: true,
+    //       })
+    //       .then((res) => {
+    //         const data = res.data
+    //         console.log('data2: ', data)
+    //         if (data) {
+    //           resolve(data)
+    //         }
+    //       })
+    //       .catch((err) => {
+    //         console.log('err: ', err)
+    //         reject(url)
+    //       })
+    //   })
+    // },
   },
 }
 </script>

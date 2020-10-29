@@ -1189,6 +1189,11 @@
     vuepress-plugin-mailchimp "^1.4.1"
     vuepress-plugin-sitemap "^2.3.1"
 
+"@vuepress/plugin-google-analytics@^1.7.1":
+  version "1.7.1"
+  resolved "https://registry.npm.taobao.org/@vuepress/plugin-google-analytics/download/@vuepress/plugin-google-analytics-1.7.1.tgz#c337e13c8a27f6fea911a04db22a3f3596a571fb"
+  integrity sha1-wzfhPIon9v6pEaBNsio/NZalcfs=
+
 "@vuepress/plugin-last-updated@1.7.1":
   version "1.7.1"
   resolved "https://registry.npm.taobao.org/@vuepress/plugin-last-updated/download/@vuepress/plugin-last-updated-1.7.1.tgz#668c55daa6b8bc1d8ee42cdb4169cf67c01b6e97"
@@ -7985,6 +7990,11 @@ vuepress-plugin-feed@^0.1.8:
     lodash.trimstart "^4.5.1"
     remove-markdown "0.3.0"
     striptags "3.1.1"
+
+vuepress-plugin-google-adsense@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.npm.taobao.org/vuepress-plugin-google-adsense/download/vuepress-plugin-google-adsense-0.1.1.tgz#7b9e3a117dfc18b8370d2be381a52917b06fb5da"
+  integrity sha1-e546EX38GLg3DSvjgaUpF7Bvtdo=
 
 vuepress-plugin-mailchimp@^1.4.1:
   version "1.4.2"

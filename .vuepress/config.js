@@ -15,7 +15,21 @@
 //   },
 // }
 module.exports = {
-  plugins: ['aplayer'],
+  plugins: [
+    'aplayer',
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'UA-154637963-1', // UA-00000000-0
+      },
+    ],
+    [
+      "vuepress-plugin-google-adsense",
+      {
+        ad_client: "ca-pub-4971335259369317" // replace it with your ad_client
+      }
+    ]
+  ],
   configureWebpack: {
     resolve: {
       alias: {
