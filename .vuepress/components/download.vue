@@ -35,19 +35,6 @@ export default {
   data() {
     return {
       downloadUrl: '',
-      exeio: {
-        apiToken: '5ea8711d2072fee12a2add079017cde7f1d37505',
-      },
-      adfly: {
-        domain: 89866,
-        advert_type: 1,
-        group_id: 0,
-        custom_name: '',
-        loggedShorten: true,
-        csrfToken: '2254f172add2812fd792822f818cca8d',
-        _user_id: 24220063,
-        _api_key: '15c8d2b1cd28e56db36e7cce06b14f5f'
-      }
     }
   },
   props: {
@@ -56,29 +43,55 @@ export default {
       type: String,
     },
   },
-  created() {
-    let exeioUrl = `https://exe.io/api?api=${this.exeio.apiToken}&url=${this.url}
-`
-    let adflyUrl = 'https://login.adf.ly/shortener/shorten'
-    new Promise((resolve, reject) => {
-      axios.get(exeioUrl).then((res) => {
-        console.log('res: ', res.data)
-        let data = res.data
-        if (data.status === 'success') {
-          // this.downloadUrl = data.shortenedUrl
-          resolve(data.shortenedUrl) 
-        }
-      })
-    }).then(url => {
-      this.adfly.url = url
-      axios.post(adflyUrl, this.adfly).then(res => {
-        console.log('res2: ', res.data);
 
-      }).catch(err => {
-        console.log('err: ', err);
-        this.downloadUrl = url
+  mounted() {
+    this.getExeIoUrl(this.url).then(url1 => {
+      console.log('url1 ', url1);
+      this.getOuoIoUrl(url1).then(url2 => {
+        this.downloadUrl = url2
       })
     })
+  },
+  methods: {
+    getExeIoUrl(url) {
+      console.log('getExeIoUrl')
+      const apiUrl = `https://exe.io/api?api=5ea8711d2072fee12a2add079017cde7f1d37505&url=`
+      return new Promise((resolve, reject) => {
+        axios
+          .get(apiUrl + url)
+          .then((res) => {
+            const data = res.data
+            console.log('data1: ', data);
+            if (data.status === 'success') {
+              resolve(data.shortenedUrl)
+            }
+          })
+          .catch((err) => {
+            console.log('err: ', err)
+            reject(url)
+          })
+      })
+    },
+
+    getOuoIoUrl(url) {
+      console.log('getOuoIoUrl')
+      const apiUrl = `https://ouo.io/api/4bYD70sr?s=`
+      return new Promise((resolve, reject) => {
+        axios
+          .get(apiUrl + url)
+          .then((res) => {
+            const data = res.data
+            console.log('data2: ', data);
+            if (data.status === 'success') {
+              resolve(data.shortenedUrl)
+            }
+          })
+          .catch((err) => {
+            console.log('err: ', err)
+            reject(url)
+          })
+      })
+    },
   },
 }
 </script>
