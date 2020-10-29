@@ -31,6 +31,7 @@
 
 <script>
 import axios from 'axios'
+import qs from 'qs'
 export default {
   data() {
     return {
@@ -97,17 +98,14 @@ export default {
       const apiUrl = `https://api.shorte.st/v1/data/url`
       const token = '5b4b18fd1ed64ace0e4779c56f25f2e1'
       return new Promise((resolve, reject) => {
+        const data = qs.stringify({ urlToShorten: url })
         axios
-          .put(
-            apiUrl,
-            { urlToShorten: url },
-            {
-              headers: {
-                'Content-Type': 'application/x-www-form-urlencoded',
-                'public-api-token': token,
-              },
-            }
-          )
+          .put(apiUrl, data, {
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'public-api-token': token,
+            },
+          })
           .then((res) => {
             const data = res.data
             console.log('data2: ', data)
@@ -125,21 +123,18 @@ export default {
       console.log('getAdFlyUrl')
       const apiUrl = `http://api.adf.ly/v1/shorten`
       return new Promise((resolve, reject) => {
+        const data = qs.stringify({
+          url: url,
+          _user_id: '24220063',
+          _api_key: '15c8d2b1cd28e56db36e7cce06b14f5f',
+          csrfToken: '5b0888f137038ad7fee8eff9f691d170',
+          advert_type: 1,
+          domain: 'adf.ly',
+        })
         axios
-          .post(
-            apiUrl,
-            {
-              url: url,
-              _user_id: '24220063',
-              _api_key: '15c8d2b1cd28e56db36e7cce06b14f5f',
-              csrfToken: '5b0888f137038ad7fee8eff9f691d170',
-              advert_type: 1,
-              domain: 'adf.ly',
-            },
-            // {
-            //   headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            // }
-          )
+          .post(apiUrl, data, {
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          })
           .then((res) => {
             const data = res.data
             console.log('data3: ', data)
