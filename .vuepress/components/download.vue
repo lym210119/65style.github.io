@@ -45,16 +45,20 @@ export default {
   },
 
   mounted() {
-    this.getExeIoUrl(this.url).then(url1 => {
-      console.log('url1 ', url1);
-      this.getOuoIoUrl(url1).then(url2 => {
-        this.downloadUrl = url2
-      }).catch(url1 => {
-        this.downloadUrl = url1
+    this.getExeIoUrl(this.url)
+      .then((url1) => {
+        console.log('url1 ', url1)
+        this.getOuoIoUrl(url1)
+          .then((url2) => {
+            this.downloadUrl = url2
+          })
+          .catch((url1) => {
+            this.downloadUrl = url1
+          })
       })
-    }).catch(url => {
-      this.downloadUrl = url
-    })
+      .catch((url) => {
+        this.downloadUrl = url
+      })
   },
   methods: {
     getExeIoUrl(url) {
@@ -65,7 +69,7 @@ export default {
           .get(apiUrl + url)
           .then((res) => {
             const data = res.data
-            console.log('data1: ', data);
+            console.log('data1: ', data)
             if (data.status === 'success') {
               resolve(data.shortenedUrl)
             }
@@ -79,13 +83,15 @@ export default {
 
     getOuoIoUrl(url) {
       console.log('getOuoIoUrl')
-      const apiUrl = `http://ouo.io/api/4bYD70sr?s=`
+      const apiUrl = `https://ouo.io/api/4bYD70sr?s=`
       return new Promise((resolve, reject) => {
         axios
-          .get(apiUrl + url)
+          .get(apiUrl + url, {
+            withCredentials: true,
+          })
           .then((res) => {
             const data = res.data
-            console.log('data2: ', data);
+            console.log('data2: ', data)
             if (data.status === 'success') {
               resolve(data.shortenedUrl)
             }
