@@ -92,8 +92,8 @@ export default {
           .then((res) => {
             const data = res.data
             console.log('data2: ', data)
-            if (data.status === 'success') {
-              resolve(data.shortenedUrl)
+            if (data) {
+              resolve(data)
             }
           })
           .catch((err) => {
