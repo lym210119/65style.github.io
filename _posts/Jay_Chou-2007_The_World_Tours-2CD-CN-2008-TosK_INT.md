@@ -13,7 +13,7 @@ tags:
     :options="{
         audio: [
           {
-            name: '龍戰騎士',
+            name: '黄金甲',
             artist: '周杰倫',
             url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-2007_The_World_Tours-2CD-CN-2008-TosK_INT/101-jay_chou-golden_armor-tosk.mp3',
             cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-2007_The_World_Tours-2CD-CN-2008-TosK_INT/000-jay_chou-2007_the_world_tours-2cd-cn-2008-proof-tosk.jpg',
