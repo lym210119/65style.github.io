@@ -183,9 +183,9 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#globalpagination
      */
 
-    // globalPagination: {
-    //   lengthPerPage: 10,
-    // },
+    globalPagination: {
+      lengthPerPage: 10,
+    },
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#sitemap
