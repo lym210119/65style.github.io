@@ -14,7 +14,7 @@ tags:
             name: '第二天堂',
             artist: '林俊傑',
             url: 'https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/02-jj_lin-haven-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg'
+            cover: 'https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]
