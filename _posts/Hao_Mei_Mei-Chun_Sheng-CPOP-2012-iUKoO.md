@@ -13,7 +13,7 @@ tags:
 
 ![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Chun_Sheng-CPOP-2012-iUKoO/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof.jpg)
 
-``` nfo
+```
 
                   ███████████████████████████████████████████████░░░░░
                  ██ ███████████████████████████████████████████████░░░░░

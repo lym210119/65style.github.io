@@ -8,7 +8,7 @@ tags:
 
 ![proof](https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/00-jay_chou-capricorn-cn-2008-proof-tosk.jpg)
 
-``` nfo
+```
 
 TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK

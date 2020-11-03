@@ -10,7 +10,7 @@ tags:
 ![000-hao_mei_mei-nan_bei-2cd-cpop-2013-proof](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Nan_Bei-2CD-CPOP-2013-CaHeSo/000-hao_mei_mei-nan_bei-2cd-cpop-2013-proof.jpg)
 
 
-``` nfo
+```
 Artist:   Hao Mei Mei
 Title:    Nan Bei
 Label:

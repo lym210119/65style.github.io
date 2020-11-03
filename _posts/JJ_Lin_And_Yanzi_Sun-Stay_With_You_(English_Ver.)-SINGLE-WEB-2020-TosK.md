@@ -9,7 +9,7 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin_And_Yanzi_Sun-Stay_With_You_%28English_Ver.%29-SINGLE-WEB-2020-TosK/00-jj_lin_and_yanzi_sun-stay_with_you_%28english_ver.%29-single-web-2020-cover.jpg)
 
-``` nfo
+```
 
 TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK

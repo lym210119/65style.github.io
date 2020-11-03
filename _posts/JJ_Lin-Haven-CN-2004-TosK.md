@@ -8,7 +8,7 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg)
 
-``` nfo
+```
 
 TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK        KKKK        KK

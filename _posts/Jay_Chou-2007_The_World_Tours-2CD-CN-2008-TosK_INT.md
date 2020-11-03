@@ -9,7 +9,7 @@ tags:
 
 ![000-jay_chou-2007_the_world_tours-2cd-cn-2008-proof-tosk](https://goindex.65style.workers.dev/1:/Jay_Chou-2007_The_World_Tours-2CD-CN-2008-TosK_INT/000-jay_chou-2007_the_world_tours-2cd-cn-2008-proof-tosk.jpg)
 
-``` nfo
+```
 
 TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK

@@ -8,7 +8,7 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Music_Voyager-CN-2003-TosK/00-jj_lin-music_voyager-cn-2003-proof-tosk.jpg)
 
-``` nfo
+```
 
 TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK        KKKK        KK

@@ -7,7 +7,7 @@ tags:
   - TosK
 ---
 
-``` nfo
+```
 
 TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK
