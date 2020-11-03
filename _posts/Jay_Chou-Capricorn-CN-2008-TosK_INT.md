@@ -2,7 +2,7 @@
 title: Jay_Chou-Capricorn-CN-2008-TosK_INT
 date: 2020-11-04
 tags: 
-  - 2008
+  - '2008'
   - TosK_INT
 ---
 

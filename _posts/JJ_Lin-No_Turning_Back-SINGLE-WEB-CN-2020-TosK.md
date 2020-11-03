@@ -2,7 +2,7 @@
 title: JJ_Lin-No_Turning_Back-SINGLE-WEB-CN-2020-TosK
 date: 2020-10-29
 tags:
-  - 2020
+  - '2020'
   - CPOP
   - TosK
 ---
