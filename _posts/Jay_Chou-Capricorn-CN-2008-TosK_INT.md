@@ -143,7 +143,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
     :options="{
         audio: [
           {
-            name: '黄金甲',
+            name: '龍戰騎士',
             artist: '周杰倫',
             url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/01-jay_chou-dragon_rider-tosk.mp3',
             cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/00-jay_chou-capricorn-cn-2008-proof-tosk.jpg',
