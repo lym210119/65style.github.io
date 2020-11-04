@@ -13,8 +13,8 @@ tags:
 
 ![00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof](https://goindex.65style.workers.dev/1:/Hao_Mei_Mei-Chun_Sheng-CPOP-2012-iUKoO/00-hao_mei_mei-chun_sheng-cpop-2012-iukoo-cd-proof.jpg)
 
-```
-
+<retrotxt v-slot>
+<pre class="has-text-plain text-1x font-ibm_vga_8x16">
                   ███████████████████████████████████████████████░░░░░
                  ██ ███████████████████████████████████████████████░░░░░
                  █████████████████████████████████████████████  ███░░░░░░
@@ -165,8 +165,8 @@ tags:
      ▓▓▓▓▓      ▓▓           2012.04       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 ▓▓
           ▓▓▓▓▓▓▓                                      ▓▓▓▓▓▓▓▓▓▓▓          ▓
                                                                   ▓▓▓▓▓▓▓▓▓▓▓
-
-```
+<span class="dos-cursor">_</span></pre>
+</retrotxt>
 
 <a-player 
     :options="{

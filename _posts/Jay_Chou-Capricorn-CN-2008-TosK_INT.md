@@ -8,9 +8,8 @@ tags:
 
 ![proof](https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/00-jay_chou-capricorn-cn-2008-proof-tosk.jpg)
 
-```
-
-TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
+<retrotxt v-slot>
+<pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK
 TT               TTT   OOO      OOOO       SSS        SS KK    KKK  KKK        KK
 TT               TT   OO           OO     SSS         SS KKK      KKKK        KK
@@ -120,7 +119,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |    | We Are Looking For:              |                                      |
 |    |                                  |                                      |
 |    |        100MBit+ affils           |                                      |
-|    |        Retail CD & BD Supplier   |                                      |
+|    |        Retail CD &amp; BD Supplier   |                                      |
 |    |        WEB Source Supplier       |                                      |
 |    |        Translator                |                                      |
 |    |                                  |                                      |
@@ -134,8 +133,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |                  2K20 t5oKsDmKaLsHsKdVhPaSmStMw9bWaRcRkYdL                   |
 |------------------------------------------------------------------------------|
 +------------------------------------------------------------------------------+
-
-```
+<span class="dos-cursor">_</span></pre>
+</retrotxt>
 
 
 

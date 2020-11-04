@@ -8,9 +8,8 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Music_Voyager-CN-2003-TosK/00-jj_lin-music_voyager-cn-2003-proof-tosk.jpg)
 
-```
-
-TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
+<retrotxt v-slot>
+<pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK        KKKK        KK
 TT               TTT   OOO      OOOO       SSS        SS KK        KKK         KK
 TT               TT   OO           OO     SSS         SS KKK       KKK        KK
@@ -114,7 +113,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |    | We Are Looking For:              |                                      |
 |    |                                  |                                      |
 |    |        100MBit+ affils           |                                      |
-|    |        Retail CD & BD Supplier   |                                      |
+|    |        Retail CD &amp; BD Supplier   |                                      |
 |    |        WEB Source Supplier       |                                      |
 |    |        Translator                |                                      |
 |    |                                  |                                      |
@@ -128,8 +127,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |                      2K19 t5oKsDmKaLsHsKdVhPaSmStMw9bW                       |
 |------------------------------------------------------------------------------|
 +------------------------------------------------------------------------------+
-
-```
+<span class="dos-cursor">_</span></pre>
+</retrotxt>
 
 <a-player 
     :options="{

@@ -8,9 +8,8 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg)
 
-```
-
-TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
+<retrotxt v-slot>
+<pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK        KKKK        KK
 TT               TTT   OOO      OOOO       SSS        SS KK        KKK         KK
 TT               TT   OO           OO     SSS         SS KKK       KKK        KK
@@ -101,7 +100,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |   JJ Lin won the Best New Artist Award at the 15th Golden Melody Awards in   |
 |   2004 for his debut album Music Voyager, but the album that really put the  |
 |   Singapore singer-songwriter on the Mandopop map is his sophomore effort    |
-|   Haven. A winning fusion of R&B and traditional Chinese music, "River       |
+|   Haven. A winning fusion of R&amp;B and traditional Chinese music, "River       |
 |   South" remains one of his most representative songs and a perennial        |
 |   karaoke favorite. The album also features the Vincent Fang-penned dance    |
 |   track "Bullet Train" and the moving love songs "Afraid" and "Distance."    |
@@ -125,7 +124,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |    | We Are Looking For:              |                                      |
 |    |                                  |                                      |
 |    |        100MBit+ affils           |                                      |
-|    |        Retail CD & BD Supplier   |                                      |
+|    |        Retail CD &amp; BD Supplier   |                                      |
 |    |        WEB Source Supplier       |                                      |
 |    |        Translator                |                                      |
 |    |                                  |                                      |
@@ -139,8 +138,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |                      2K19 t5oKsDmKaLsHsKdVhPaSmStMw9bW                       |
 |------------------------------------------------------------------------------|
 +------------------------------------------------------------------------------+
-
-```
+<span class="dos-cursor">_</span></pre>
+</retrotxt>
 
 <a-player 
     :options="{

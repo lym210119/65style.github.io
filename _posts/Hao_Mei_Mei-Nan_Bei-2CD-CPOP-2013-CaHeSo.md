@@ -49,7 +49,7 @@ CD2
 好妹妹乐队 - 南北
 
 CD1                                                       
-                                                          
+
 01. 风从海面吹过来                                    4:18
 02. 北上的列车                                        4:26
 03. 晚风                                              5:27
@@ -64,7 +64,7 @@ CD1
 12. 那年的愿望                                        4:32
 
 CD2                                                       
-                                                          
+
 01. 海的声音                                          1:21
 02. 那么多的人，你要去哪里 (秦昊音乐日记)            10:54
 03. 石鼓路的匆匆往往 (张小厚音乐日记)                12:36
@@ -77,14 +77,13 @@ http://music.douban.com/subject/24325813/
 http://mvd.jd.com/20071875.html
 
 We're looking for:           
-                             
+
 Private 100Mbit+ affil sites.
 CD rippers and suppliers.    
-                             
-Contact Us:                  
-                             
-grpchs@hushmail.com   
 
+Contact Us:                  
+
+grpchs@hushmail.com
 ```
 
 <a-player 
