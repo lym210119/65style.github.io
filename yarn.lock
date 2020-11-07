@@ -1251,10 +1251,10 @@
     toml "^3.0.0"
     upath "^1.1.0"
 
-"@vuepress/theme-blog@^2.3.2":
-  version "2.3.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/theme-blog/download/@vuepress/theme-blog-2.3.2.tgz#b3d2c43dd3f2542ccc9adb4fc557945d4c036f2b"
-  integrity sha1-s9LEPdPyVCzMmttPxVeUXUwDbys=
+"@vuepress/theme-blog@^2.3.3":
+  version "2.3.3"
+  resolved "https://registry.npm.taobao.org/@vuepress/theme-blog/download/@vuepress/theme-blog-2.3.3.tgz#de5fa960f4c0eac7a8bb18a0fb1829cfcfe963ba"
+  integrity sha1-3l+pYPTA6seouxig+xgpz8/pY7o=
   dependencies:
     "@vuepress/plugin-blog" "^1.9.2"
     "@vuepress/plugin-medium-zoom" "^1.5.4"
