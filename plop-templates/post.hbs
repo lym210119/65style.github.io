@@ -1,0 +1,30 @@
+---
+title: {{ title }}
+date: {{ date }}
+tags: 
+  - '{{ year }}'
+  - {{ team }}
+---
+
+![cover.jpg]({{ cover }})
+
+<retrotxt v-slot>
+
+</retrotxt>
+
+<a-player 
+    :options="{
+        audio: [
+          {
+            name: '{{ name }}',
+            artist: '{{ artist }}',
+            url: '{{ url }}',
+            cover: '{{ cover }}',
+            theme: '#ebd0c2'
+          },
+        ]
+    }"
+/>
+
+<download url="{{ downUrl }}"/>
+
