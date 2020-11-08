@@ -4,7 +4,7 @@
         <title>0day music</title>
         <link>https://blog.65style.com</link>
         <description>0day music</description>
-        <lastBuildDate>Sun, 08 Nov 2020 08:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2020 12:21:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -87,16 +87,6 @@ _
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[JayChou-Capricorn-CN-2008-TosKINT]]></title>
-            <link>https://blog.65style.com/jay-chou-capricorn-cn-2008-tosk-int/</link>
-            <guid>https://blog.65style.com/jay-chou-capricorn-cn-2008-tosk-int/</guid>
-            <pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[_
-]]></description>
-            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/00-jay_chou-capricorn-cn-2008-proof-tosk.jpg">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[JayChou-2007TheWorldTours-2CD-CN-2008-TosK_INT]]></title>
             <link>https://blog.65style.com/jay-chou-2007-the-world-tours-2cd-cn-2008-tosk-int/</link>
             <guid>https://blog.65style.com/jay-chou-2007-the-world-tours-2cd-cn-2008-tosk-int/</guid>
@@ -107,10 +97,20 @@ _
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[JayChou-Capricorn-CN-2008-TosKINT]]></title>
+            <link>https://blog.65style.com/jay-chou-capricorn-cn-2008-tosk-int/</link>
+            <guid>https://blog.65style.com/jay-chou-capricorn-cn-2008-tosk-int/</guid>
+            <pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Capricorn-CN-2008-TosK_INT/00-jay_chou-capricorn-cn-2008-proof-tosk.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[JayChou-CommonJasminOrange-CN-2004-TosKINT]]></title>
             <link>https://blog.65style.com/jay-chou-common-jasmin-orange-cn-2004-tosk-int/</link>
             <guid>https://blog.65style.com/jay-chou-common-jasmin-orange-cn-2004-tosk-int/</guid>
             <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[_
+]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Common_Jasmin_Orange-CN-2004-TosK_INT/00-jay_chou-common_jasmin_orange-cn-2004-proof-tosk.jpg">
             </enclosure>
         </item>
@@ -119,8 +119,6 @@ _
             <link>https://blog.65style.com/jay-chou-curse-of-the-golden-flower-cn-2006-tosk-int/</link>
             <guid>https://blog.65style.com/jay-chou-curse-of-the-golden-flower-cn-2006-tosk-int/</guid>
             <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[_
-]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/00-jay_chou-curse_of_the_golden_flower-cn-2006-proof-tosk.jpg">
             </enclosure>
         </item>
@@ -135,29 +133,21 @@ _
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[JayChou-HiddenTrack-CN-2003-TosK_INT]]></title>
-            <link>https://blog.65style.com/jay-chou-hidden-track-cn-2003-tosk-int/</link>
-            <guid>https://blog.65style.com/jay-chou-hidden-track-cn-2003-tosk-int/</guid>
-            <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
-            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[JayChou-FantasyPlus-CN-2001-TosK]]></title>
             <link>https://blog.65style.com/jay-chou-fantasy-plus-cn-2001-tosk/</link>
             <guid>https://blog.65style.com/jay-chou-fantasy-plus-cn-2001-tosk/</guid>
             <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[_
-]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Fantasy_Plus-CN-2001-TosK/00-jay_chou-fantasy_plus-2001-proof-tosk.jpg">
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[JayChou-ITruly_Believe-SINGLE-WEB-CN-2019-TosK]]></title>
-            <link>https://blog.65style.com/jay-chou-i-truly-believe-single-web-cn-2019-tosk/</link>
-            <guid>https://blog.65style.com/jay-chou-i-truly-believe-single-web-cn-2019-tosk/</guid>
+            <title><![CDATA[JayChou-HiddenTrack-CN-2003-TosK_INT]]></title>
+            <link>https://blog.65style.com/jay-chou-hidden-track-cn-2003-tosk-int/</link>
+            <guid>https://blog.65style.com/jay-chou-hidden-track-cn-2003-tosk-int/</guid>
             <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
-            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg">
+            <description><![CDATA[_
+]]></description>
+            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg">
             </enclosure>
         </item>
         <item>
@@ -171,6 +161,14 @@ _
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[JayChou-ITruly_Believe-SINGLE-WEB-CN-2019-TosK]]></title>
+            <link>https://blog.65style.com/jay-chou-i-truly-believe-single-web-cn-2019-tosk/</link>
+            <guid>https://blog.65style.com/jay-chou-i-truly-believe-single-web-cn-2019-tosk/</guid>
+            <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[JayChou-IncomparableConcertLive-2CD-CN-2005-TosKINT]]></title>
             <link>https://blog.65style.com/jay-chou-incomparable-concert-live-2cd-cn-2005-tosk-int/</link>
             <guid>https://blog.65style.com/jay-chou-incomparable-concert-live-2cd-cn-2005-tosk-int/</guid>
@@ -181,20 +179,10 @@ _
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[JayChou-MasterChou-CN-2008-TosK]]></title>
-            <link>https://blog.65style.com/jay-chou-master-chou-cn-2008-tosk/</link>
-            <guid>https://blog.65style.com/jay-chou-master-chou-cn-2008-tosk/</guid>
-            <pubDate>Sat, 07 Nov 2020 00:00:00 GMT</pubDate>
-            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[Jay_Chou-Jay-CN-2000-TosK]]></title>
             <link>https://blog.65style.com/jay-chou-jay-cn-2000-tosk/</link>
             <guid>https://blog.65style.com/jay-chou-jay-cn-2000-tosk/</guid>
             <pubDate>Sat, 07 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[_
-]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg">
             </enclosure>
         </item>
@@ -203,7 +191,17 @@ _
             <link>https://blog.65style.com/jay-chou-jay-chous-bedtime-stories-web-cpop-2016-tosk/</link>
             <guid>https://blog.65style.com/jay-chou-jay-chous-bedtime-stories-web-cpop-2016-tosk/</guid>
             <pubDate>Sat, 07 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[_
+]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Jay_Chous_Bedtime_Stories-WEB-CPOP-2016-TosK/00-jay_chou-jay_chous_bedtime_stories-web-cpop-2016-cover-tosk.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[JayChou-MasterChou-CN-2008-TosK]]></title>
+            <link>https://blog.65style.com/jay-chou-master-chou-cn-2008-tosk/</link>
+            <guid>https://blog.65style.com/jay-chou-master-chou-cn-2008-tosk/</guid>
+            <pubDate>Sat, 07 Nov 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg">
             </enclosure>
         </item>
     </channel>
