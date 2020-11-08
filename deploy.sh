@@ -4,7 +4,7 @@
 set -e
 
 # 生成静态文件
-yarn build
+npm run build
 
 # 进入生成的文件夹
 cd .vuepress/dist
@@ -20,12 +20,12 @@ git commit -m 'deploy'
 # git config --local user.email "lym210119@gmail.com"
 
 # 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:65style/65style.github.io.git master:gh-pages
+git push -f git@github.com:65style/65style.github.io.git master:gh-pages
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 如果使用 travis 持续集成
-git push -f https://github.com/65style/65style.github.io.git master:gh-pages
+# git push -f https://${GITHUB_TOKEN}/65style/65style.github.io.git master:gh-pages
 
 cd -
