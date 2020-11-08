@@ -6,7 +6,6 @@ tags:
   - TosK
 ---
 
-测试 Travis CI
 ![cover.jpg](https://goindex.65style.workers.dev/1:/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/00-will_pan-alpha_world_tour_live-web-cn-2020-cover.jpg)
 
 <retrotxt v-slot>
