@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg]()
+![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Drifter-WEB-CN-2020-TosK/00-jj_lin-drifter-web-cn-2020-cover.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK

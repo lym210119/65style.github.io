@@ -37,8 +37,8 @@ module.exports = {
       },
     },
   },
-  title: '0day music',
-  description: '0day music',
+  title: 'srr2m',
+  description: 'scene music',
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
     [
