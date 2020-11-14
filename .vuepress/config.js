@@ -23,12 +23,12 @@ module.exports = {
         ga: 'UA-154637963-1', // UA-00000000-0
       },
     ],
-    [
-      "vuepress-plugin-google-adsense",
-      {
-        ad_client: "ca-pub-4971335259369317" // replace it with your ad_client
-      }
-    ]
+    // [
+    //   "vuepress-plugin-google-adsense",
+    //   {
+    //     ad_client: "ca-pub-4971335259369317" // replace it with your ad_client
+    //   }
+    // ]
   ],
   configureWebpack: {
     resolve: {
@@ -39,6 +39,17 @@ module.exports = {
   },
   title: '0day music',
   description: '0day music',
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }],
+    [
+      'script',
+      {
+        'data-ad-client': 'ca-pub-4971335259369317',
+        async: 'true',
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      },
+    ],
+  ],
   theme: '@vuepress/theme-blog',
   themeConfig: {
     /**
@@ -147,7 +158,7 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#directories
      */
 
-    directories:[
+    directories: [
       {
         id: 'post',
         dirname: '_posts',
