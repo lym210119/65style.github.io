@@ -1,7 +1,7 @@
 <template>
   <p>
     <a :href="downloadUrl" target="_blank" rel="noopener noreferrer">
-      Download after clicking the AD
+      Download
       <span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
