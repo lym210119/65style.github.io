@@ -47,7 +47,7 @@ export default {
 
   async mounted() {
     try {
-      var urlA = await this.getExeIoUrl(this.url)
+      var urlA = await this.getAdFlyUrl(this.url)
       console.log('urlA: ', urlA)
       this.downloadUrl = urlA
     } catch (error) {
@@ -55,69 +55,35 @@ export default {
       console.log('errorA: ', error)
     }
 
-    try {
-      var urlB = await this.getAdFlyUrl(urlA)
-      console.log('urlB: ', urlB)
-      this.downloadUrl = urlB
-    } catch (error) {
-      this.downloadUrl = urlA
-      console.log('errorB: ', error)
-    }
-
     // try {
-    //   var urlC = await this.getAdFlyUrl(urlB)
-    //   console.log('urlC: ', urlC)
-    //   this.downloadUrl = urlC
-    // } catch (error) {
+    //   var urlB = await this.getExeIoUrl(urlA)
+    //   console.log('urlB: ', urlB)
     //   this.downloadUrl = urlB
-    //   console.log('errorC: ', error)
+    // } catch (error) {
+    //   this.downloadUrl = urlA
+    //   console.log('errorB: ', error)
     // }
+
   },
   methods: {
-    getExeIoUrl(url) {
-      console.log('getExeIoUrl')
-      const apiUrl = `https://exe.io/api?api=5ea8711d2072fee12a2add079017cde7f1d37505&url=`
-      return new Promise((resolve, reject) => {
-        axios
-          .get(apiUrl + url)
-          .then((res) => {
-            const data = res.data
-            console.log('data1: ', data)
-            if (data.status === 'success') {
-              resolve(data.shortenedUrl)
-            }
-          })
-          .catch((err) => {
-            reject(err)
-          })
-      })
-    },
-
-    getShorteStUrl(url) {
-      console.log('getShorteStUrl')
-      const apiUrl = `https://api.shorte.st/v1/data/url`
-      const token = '5b4b18fd1ed64ace0e4779c56f25f2e1'
-      return new Promise((resolve, reject) => {
-        const data = qs.stringify({ urlToShorten: url })
-        axios
-          .put(apiUrl, data, {
-            headers: {
-              'Content-Type': 'application/x-www-form-urlencoded',
-              'public-api-token': token,
-            },
-          })
-          .then((res) => {
-            const data = res.data
-            console.log('data2: ', data)
-            if (data.status === 'ok') {
-              resolve(data.shortenedUrl)
-            }
-          })
-          .catch((err) => {
-            reject(err)
-          })
-      })
-    },
+    // getExeIoUrl(url) {
+    //   console.log('getExeIoUrl')
+    //   const apiUrl = `https://exe.io/api?api=5ea8711d2072fee12a2add079017cde7f1d37505&url=`
+    //   return new Promise((resolve, reject) => {
+    //     axios
+    //       .get(apiUrl + url)
+    //       .then((res) => {
+    //         const data = res.data
+    //         console.log('data1: ', data)
+    //         if (data.status === 'success') {
+    //           resolve(data.shortenedUrl)
+    //         }
+    //       })
+    //       .catch((err) => {
+    //         reject(err)
+    //       })
+    //   })
+    // },
 
     getAdFlyUrl(url) {
       console.log('getAdFlyUrl')
