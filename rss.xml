@@ -4,7 +4,7 @@
         <title>srr2m</title>
         <link>https://blog.65style.com</link>
         <description>scene music</description>
-        <lastBuildDate>Tue, 17 Nov 2020 15:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2020 16:12:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -43,12 +43,20 @@ _
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[JJ_Lin-Drifter-CN-2020-TosK]]></title>
+            <link>https://blog.65style.com/jj-lin-drifter-cn-2020-tosk/</link>
+            <guid>https://blog.65style.com/jj-lin-drifter-cn-2020-tosk/</guid>
+            <pubDate>Tue, 17 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[_
+]]></description>
+            <enclosure url="https://goindex.65style.workers.dev/1:/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[JJ_Lin-Drifter-WEB-CN-2020-TosK]]></title>
             <link>https://blog.65style.com/jj-lin-drifter-web-cn-2020-tosk/</link>
             <guid>https://blog.65style.com/jj-lin-drifter-web-cn-2020-tosk/</guid>
             <pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[_
-]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/JJ_Lin-Drifter-WEB-CN-2020-TosK/00-jj_lin-drifter-web-cn-2020-cover.jpg">
             </enclosure>
         </item>
@@ -221,14 +229,6 @@ _
             <description><![CDATA[_
 ]]></description>
             <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/000-jay_chou-incomparable_concert_live-2cd-cn-2005-proof-tosk.jpg">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Jay_Chou-Jay-CN-2000-TosK]]></title>
-            <link>https://blog.65style.com/jay-chou-jay-cn-2000-tosk/</link>
-            <guid>https://blog.65style.com/jay-chou-jay-cn-2000-tosk/</guid>
-            <pubDate>Sat, 07 Nov 2020 00:00:00 GMT</pubDate>
-            <enclosure url="https://goindex.65style.workers.dev/1:/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg">
             </enclosure>
         </item>
     </channel>
