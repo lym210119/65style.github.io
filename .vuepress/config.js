@@ -40,7 +40,7 @@ module.exports = {
   title: 'srr2m',
   description: 'scene music',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }],
     [
       'script',
       {
