@@ -38,7 +38,7 @@ module.exports = {
     },
   },
   title: 'srr2m',
-  description: 'scene music',
+  description: 'ReScene Music',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     [
