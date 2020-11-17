@@ -202,7 +202,7 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#sitemap
      */
     sitemap: {
-      hostname: 'https://blog.65style.com/',
+      hostname: 'https://srr2m.com/',
     },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#comment
@@ -214,15 +214,15 @@ module.exports = {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#newsletter
      */
-    newsletter: {
-      endpoint:
-        'https://65style.us2.list-manage.com/subscribe/post?u=4f3e6e952220cb3517cb77de4&amp;id=759e393024',
-    },
+    // newsletter: {
+    //   endpoint:
+    //     'https://65style.us2.list-manage.com/subscribe/post?u=4f3e6e952220cb3517cb77de4&amp;id=759e393024',
+    // },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#feed
      */
     feed: {
-      canonical_base: 'https://blog.65style.com',
+      canonical_base: 'https://srr2m.com',
     },
 
     /**
