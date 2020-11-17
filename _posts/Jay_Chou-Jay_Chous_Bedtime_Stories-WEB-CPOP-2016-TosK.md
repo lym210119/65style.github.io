@@ -125,5 +125,5 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
     }"
 />
 
-<download url="https://krakenfiles.com/view/e875dfd3a6/file.html"/>
+<download url="https://mirrorace.org/m/53N5C"/>
 
