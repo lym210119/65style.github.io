@@ -62,20 +62,20 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#nav
      */
 
-    // nav: [
-    //   {
-    //     text: 'Blog',
-    //     link: '/',
-    //   },
-    //   {
-    //     text: 'Tags',
-    //     link: '/tag/',
-    //   },
-    //   {
-    //     text: 'Location',
-    //     link: '/location/',
-    //   },
-    // ],
+    nav: [
+      {
+        text: 'Blog',
+        link: '/',
+      },
+      {
+        text: 'Tags',
+        link: '/tag/',
+      },
+      {
+        text: 'Radio',
+        link: 'https://fm.srr2m.com/public/cpop_music',
+      },
+    ],
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#footer
