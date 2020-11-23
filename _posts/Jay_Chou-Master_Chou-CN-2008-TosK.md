@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
@@ -111,8 +111,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '周大俠',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Master_Chou-CN-2008-TosK/01-jay_chou-master_chou-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Master_Chou-CN-2008-TosK/01-jay_chou-master_chou-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Master_Chou-CN-2008-TosK/00-jay_chou-master_chou-cn-2008-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

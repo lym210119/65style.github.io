@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![proof-tosk.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/00-jay_chou-curse_of_the_golden_flower-cn-2006-proof-tosk.jpg)
+![proof-tosk.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/00-jay_chou-curse_of_the_golden_flower-cn-2006-proof-tosk.jpg)
 
 
 <retrotxt v-slot>
@@ -128,8 +128,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '菊花台 (鋼琴演奏版)',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/02-jay_chou-chrysanthemum_terrace_(piano_ver.)-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/00-jay_chou-curse_of_the_golden_flower-cn-2006-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/02-jay_chou-chrysanthemum_terrace_(piano_ver.)-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Curse_of_The_Golden_Flower-CN-2006-TosK_INT/00-jay_chou-curse_of_the_golden_flower-cn-2006-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

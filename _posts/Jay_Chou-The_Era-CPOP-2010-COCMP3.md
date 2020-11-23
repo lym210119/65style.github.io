@@ -6,7 +6,7 @@ tags:
   - COCMP3
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era-CPOP-2010-COCMP3/00-jay_chou-the_era-cpop-2010-cd-cocmp3.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CPOP-2010-COCMP3/00-jay_chou-the_era-cpop-2010-cd-cocmp3.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">
@@ -253,8 +253,8 @@ tags:
           {
             name: '跨时代',
             artist: '周杰伦',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era-CPOP-2010-COCMP3/01-jay_chou-the_era-cocmp3.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era-CPOP-2010-COCMP3/00-jay_chou-the_era-cpop-2010-cd-cocmp3.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CPOP-2010-COCMP3/01-jay_chou-the_era-cocmp3.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CPOP-2010-COCMP3/00-jay_chou-the_era-cpop-2010-cd-cocmp3.jpg',
             theme: '#ebd0c2'
           },
         ]

@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/000-jay_chou-the_era_2010_world_tour-2cd-cn-2011-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/000-jay_chou-the_era_2010_world_tour-2cd-cn-2011-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -170,8 +170,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '開不了口',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/207-jay_chou-i_find_it_hard_to_say-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/000-jay_chou-the_era_2010_world_tour-2cd-cn-2011-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/207-jay_chou-i_find_it_hard_to_say-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era_2010_World_Tour-2CD-CN-2011-TosK_INT/000-jay_chou-the_era_2010_world_tour-2cd-cn-2011-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

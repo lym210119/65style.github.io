@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg)
 
 
 <retrotxt v-slot>
@@ -109,8 +109,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: 'I Truly Believe',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/01-jay_chou-i_truly_believe-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/01-jay_chou-i_truly_believe-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-I_Truly_Believe-SINGLE-WEB-CN-2019-TosK/00-jay_chou-i_truly_believe-single-web-cn-2019-cover-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

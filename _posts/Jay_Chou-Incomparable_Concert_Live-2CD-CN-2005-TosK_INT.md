@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/000-jay_chou-incomparable_concert_live-2cd-cn-2005-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/000-jay_chou-incomparable_concert_live-2cd-cn-2005-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -191,8 +191,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '以父之名',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/101-jay_chou-in_the_name_of_the_father-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/000-jay_chou-incomparable_concert_live-2cd-cn-2005-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/101-jay_chou-in_the_name_of_the_father-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Incomparable_Concert_Live-2CD-CN-2005-TosK_INT/000-jay_chou-incomparable_concert_live-2cd-cn-2005-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

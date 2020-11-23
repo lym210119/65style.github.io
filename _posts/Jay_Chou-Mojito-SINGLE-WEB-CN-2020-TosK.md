@@ -16,7 +16,7 @@ tags:
           {
             name: 'Mojito',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/1:/Jay_Chou-Mojito-SINGLE-WEB-CN-2020-TosK/01-jay_chou-mojito.mp3',
+            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Mojito-SINGLE-WEB-CN-2020-TosK/01-jay_chou-mojito.mp3',
             cover: '',
             theme: '#ebd0c2'
           },

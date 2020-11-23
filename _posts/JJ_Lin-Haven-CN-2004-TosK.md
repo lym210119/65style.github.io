@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
@@ -147,8 +147,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '第二天堂',
             artist: '林俊傑',
-            url: 'https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/02-jj_lin-haven-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/1:/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Haven-CN-2004-TosK/02-jj_lin-haven-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Haven-CN-2004-TosK/00-jj_lin-haven-cn-2004-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]
