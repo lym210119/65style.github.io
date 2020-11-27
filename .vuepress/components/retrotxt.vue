@@ -1,7 +1,9 @@
 <template>
-  <article class="has-center theme-msdos-fg" style="">
-    <slot></slot>
-  </article>
+  <ClientOnly>
+    <article class="has-center theme-msdos-fg" style="">
+      <slot></slot>
+    </article>
+  </ClientOnly>
 </template>
 
 <script>

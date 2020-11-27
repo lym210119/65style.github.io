@@ -8,7 +8,7 @@ tags:
 
 ![cover.jpg](https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg)
 
-<!-- <retrotxt v-slot>
+<retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
 TT                TT     OOOOOOOO            SSSS     SS KK   KKK  KKKK        KK
 TT               TTT   OOO      OOOO       SSS        SS KK    KKK  KKK        KK
@@ -122,9 +122,9 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 |------------------------------------------------------------------------------|
 +------------------------------------------------------------------------------+
 <span class="dos-cursor">_</span></pre>
-</retrotxt> -->
+</retrotxt>
 
-<!-- <a-player 
+<a-player 
     :options="{
         audio: [
           {
@@ -136,7 +136,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           },
         ]
     }"
-/> -->
+/>
 
-<!-- <download url="https://mirrorace.org/m/103ur"/> -->
+<download url="https://mirrorace.org/m/103ur"/>
 
