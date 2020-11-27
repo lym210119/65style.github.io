@@ -124,7 +124,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
 <span class="dos-cursor">_</span></pre>
 </retrotxt>
 
-<a-player 
+<!-- <a-player 
     :options="{
         audio: [
           {
@@ -136,7 +136,7 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           },
         ]
     }"
-/>
+/> -->
 
 <!-- <download url="https://mirrorace.org/m/103ur"/> -->
 
