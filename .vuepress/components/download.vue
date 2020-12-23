@@ -48,33 +48,33 @@ export default {
   async mounted() {
     try {
       var urlA = await this.getAdFlyUrl(this.url)
-      console.log('urlA: ', urlA)
+      // 
       this.downloadUrl = urlA
     } catch (error) {
       this.downloadUrl = this.url
-      console.log('errorA: ', error)
+      // Î
     }
 
     // try {
     //   var urlB = await this.getExeIoUrl(urlA)
-    //   console.log('urlB: ', urlB)
+    //   
     //   this.downloadUrl = urlB
     // } catch (error) {
     //   this.downloadUrl = urlA
-    //   console.log('errorB: ', error)
+    //   
     // }
 
   },
   methods: {
     // getExeIoUrl(url) {
-    //   console.log('getExeIoUrl')
+    //   
     //   const apiUrl = `https://exe.io/api?api=5ea8711d2072fee12a2add079017cde7f1d37505&url=`
     //   return new Promise((resolve, reject) => {
     //     axios
     //       .get(apiUrl + url)
     //       .then((res) => {
     //         const data = res.data
-    //         console.log('data1: ', data)
+    //         
     //         if (data.status === 'success') {
     //           resolve(data.shortenedUrl)
     //         }
@@ -86,7 +86,7 @@ export default {
     // },
 
     getAdFlyUrl(url) {
-      console.log('getAdFlyUrl')
+      
       const apiUrl = `https://api.adf.ly/v1/shorten`
       return new Promise((resolve, reject) => {
         const data = qs.stringify({
@@ -103,7 +103,7 @@ export default {
           })
           .then((res) => {
             const data = res.data
-            console.log('data3: ', data)
+            
             if (data.data.length) {
               resolve(data.data[0]['short_url'])
             }
@@ -114,7 +114,7 @@ export default {
       })
     },
     // getOuoIoUrl(url) {
-    //   console.log('getOuoIoUrl')
+    //   
     //   const apiUrl = `https://ouo.io/api/4bYD70sr?s=`
     //   return new Promise((resolve, reject) => {
     //     axios
@@ -123,13 +123,13 @@ export default {
     //       })
     //       .then((res) => {
     //         const data = res.data
-    //         console.log('data2: ', data)
+    //         
     //         if (data) {
     //           resolve(data)
     //         }
     //       })
     //       .catch((err) => {
-    //         console.log('err: ', err)
+    //         
     //         reject(url)
     //       })
     //   })
