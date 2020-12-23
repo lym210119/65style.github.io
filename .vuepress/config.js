@@ -209,7 +209,7 @@ module.exports = {
      */
     comment: {
       service: 'disqus',
-      shortname: '65style',
+      shortname: 'srr2m',
     },
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#newsletter
