@@ -6,7 +6,7 @@ tags:
   - iUKoO
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/00-jay_chou-aiyo_not_bad-cpop-2015-iukoo-proof.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/00-jay_chou-aiyo_not_bad-cpop-2015-iukoo-proof.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">
@@ -77,8 +77,8 @@ tags:
           {
             name: '听见下雨的声音',
             artist: '周杰伦',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/12-jay_chou-rhythm_of_the_rain.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/00-jay_chou-aiyo_not_bad-cpop-2015-iukoo-proof.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/12-jay_chou-rhythm_of_the_rain.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Aiyo_Not_Bad-CPOP-2015-iUKoO/00-jay_chou-aiyo_not_bad-cpop-2015-iukoo-proof.jpg',
             theme: '#ebd0c2'
           },
         ]

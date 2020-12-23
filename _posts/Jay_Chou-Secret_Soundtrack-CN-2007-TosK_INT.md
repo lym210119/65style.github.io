@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/00-jay_chou-secret_soundtrack-cn-2007-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/00-jay_chou-secret_soundtrack-cn-2007-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -175,8 +175,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '不能說的秘密',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/25-jay_chou-secret-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/00-jay_chou-secret_soundtrack-cn-2007-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/25-jay_chou-secret-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Secret_Soundtrack-CN-2007-TosK_INT/00-jay_chou-secret_soundtrack-cn-2007-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

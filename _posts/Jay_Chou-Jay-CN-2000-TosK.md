@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
@@ -138,8 +138,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '可愛女人',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Jay-CN-2000-TosK/01-jay_chou-adorable_lady-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Jay-CN-2000-TosK/01-jay_chou-adorable_lady-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Jay-CN-2000-TosK/00-jay_chou-jay-cn-2000-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

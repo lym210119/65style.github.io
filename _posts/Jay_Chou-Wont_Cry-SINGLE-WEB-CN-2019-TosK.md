@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/00-jay_chou-wont_cry-single-web-cn-2019-cover-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/00-jay_chou-wont_cry-single-web-cn-2019-cover-tosk.jpg)
 
 <retrotxt v-slot>
 
@@ -18,8 +18,8 @@ tags:
           {
             name: '說好不哭',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/01-jay_chou-wont_cry-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/00-jay_chou-wont_cry-single-web-cn-2019-cover-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/01-jay_chou-wont_cry-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Wont_Cry-SINGLE-WEB-CN-2019-TosK/00-jay_chou-wont_cry-single-web-cn-2019-cover-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

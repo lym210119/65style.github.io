@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/00-jay_chou-still_fantasy-cn-2006-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/00-jay_chou-still_fantasy-cn-2006-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -153,8 +153,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '夜的第七章',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/01-jay_chou-chapter_seven-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/00-jay_chou-still_fantasy-cn-2006-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/01-jay_chou-chapter_seven-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Still_Fantasy-CN-2006-TosK_INT/00-jay_chou-still_fantasy-cn-2006-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

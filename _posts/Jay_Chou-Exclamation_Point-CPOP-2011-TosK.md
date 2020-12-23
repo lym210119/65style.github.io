@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/00-jay_chou-exclamation_point-proof-cpop-2011-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/00-jay_chou-exclamation_point-proof-cpop-2011-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">
@@ -175,8 +175,8 @@ tags:
           {
             name: '惊叹号',
             artist: '周杰伦',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/01-jay_chou-exclamation_point-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/00-jay_chou-exclamation_point-cpop-2011-tosk.m3u',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/01-jay_chou-exclamation_point-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Exclamation_Point-CPOP-2011-TosK/00-jay_chou-exclamation_point-cpop-2011-tosk.m3u',
             theme: '#ebd0c2'
           },
         ]

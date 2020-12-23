@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/00-will_pan-alpha_world_tour_live-web-cn-2020-cover.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/00-will_pan-alpha_world_tour_live-web-cn-2020-cover.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
@@ -127,8 +127,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: 'Coming Home',
             artist: '潘瑋柏',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/01-will_pan-coming_home.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/00-will_pan-alpha_world_tour_live-web-cn-2020-cover.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/01-will_pan-coming_home.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Will_Pan-Alpha_World_Tour_Live-WEB-CN-2020-TosK/00-will_pan-alpha_world_tour_live-web-cn-2020-cover.jpg',
             theme: '#ebd0c2'
           },
         ]

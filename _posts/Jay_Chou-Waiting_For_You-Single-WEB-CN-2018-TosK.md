@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/00-jay_chou-waiting_for_you-single-web-cn-2018-cover-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/00-jay_chou-waiting_for_you-single-web-cn-2018-cover-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTT     TT                            SSSSSSSS KKKKKK    KKKK    KKKKKKK
@@ -108,8 +108,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '等你下課 (With. 楊瑞代)',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/01-jay_chou-waiting_for_you_(with._gary_yang)-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/00-jay_chou-waiting_for_you-single-web-cn-2018-cover-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/01-jay_chou-waiting_for_you_(with._gary_yang)-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Waiting_For_You-Single-WEB-CN-2018-TosK/00-jay_chou-waiting_for_you-single-web-cn-2018-cover-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

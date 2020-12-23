@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy-CN-2001-TosK/00-jay_chou-fantasy-cn-2001-tosk-cover.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy-CN-2001-TosK/00-jay_chou-fantasy-cn-2001-tosk-cover.jpg)
 
 
 <retrotxt v-slot>
@@ -137,8 +137,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '愛在西元前',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy-CN-2001-TosK/01-jay_chou-love_before_bc-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy-CN-2001-TosK/00-jay_chou-fantasy-cn-2001-tosk-cover.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy-CN-2001-TosK/01-jay_chou-love_before_bc-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy-CN-2001-TosK/00-jay_chou-fantasy-cn-2001-tosk-cover.jpg',
             theme: '#ebd0c2'
           },
         ]

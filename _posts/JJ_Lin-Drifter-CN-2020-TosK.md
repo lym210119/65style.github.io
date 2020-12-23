@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -130,8 +130,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '最嚮往的地方',
             artist: '林俊傑',
-            url: 'https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Drifter-CN-2020-TosK/01-jj_lin-embark-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/JJ_Lin-Drifter-CN-2020-TosK/01-jj_lin-embark-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/JJ_Lin-Drifter-CN-2020-TosK/00-jj_lin-drifter-cn-2020-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

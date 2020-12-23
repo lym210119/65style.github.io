@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg)
 
 
 <retrotxt v-slot>
@@ -125,8 +125,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '軌跡',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/01-jay_chou-orbit-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/01-jay_chou-orbit-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Hidden_Track-CN-2003-TosK_INT/00-jay_chou-hidden_track-cn-2003-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

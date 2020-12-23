@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CN-2010-TosK_INT/00-jay_chou-the_era-cn-2010-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-The_Era-CN-2010-TosK_INT/00-jay_chou-the_era-cn-2010-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -143,8 +143,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '雨下一整晚',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CN-2010-TosK_INT/06-jay_chou-rain_all_night-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-The_Era-CN-2010-TosK_INT/00-jay_chou-the_era-cn-2010-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-The_Era-CN-2010-TosK_INT/06-jay_chou-rain_all_night-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-The_Era-CN-2010-TosK_INT/00-jay_chou-the_era-cn-2010-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

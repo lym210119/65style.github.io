@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/000-mayday-nowhere_world_tour_live-2cd-cn-2013-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/000-mayday-nowhere_world_tour_live-2cd-cn-2013-proof-tosk.jpg)
 
 <retrotxt v-slot>
 <pre class="has-text-plain text-1x font-ibm_vga_8x16">TTTTTTTTTTTTTTTTTTTT                            SSSSSSSS KKKKKKKK  KKKKKKKKKKKKKK
@@ -173,8 +173,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '有些事現在不做一輩子都不會做了',
             artist: '五月天',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/101-mayday-for_somethings_if_you_dont_do_it_now_youll_never_do-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/000-mayday-nowhere_world_tour_live-2cd-cn-2013-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/101-mayday-for_somethings_if_you_dont_do_it_now_youll_never_do-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Mayday-Nowhere_World_Tour_Live-2CD-CN-2013-TosK/000-mayday-nowhere_world_tour_live-2cd-cn-2013-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

@@ -6,7 +6,7 @@ tags:
   - TosK
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy_Plus-CN-2001-TosK/00-jay_chou-fantasy_plus-2001-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy_Plus-CN-2001-TosK/00-jay_chou-fantasy_plus-2001-proof-tosk.jpg)
 
 
 <retrotxt v-slot>
@@ -121,8 +121,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '世界末日',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy_Plus-CN-2001-TosK/03-jay_chou-end_of_the_world-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Fantasy_Plus-CN-2001-TosK/00-jay_chou-fantasy_plus-2001-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy_Plus-CN-2001-TosK/03-jay_chou-end_of_the_world-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Fantasy_Plus-CN-2001-TosK/00-jay_chou-fantasy_plus-2001-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]

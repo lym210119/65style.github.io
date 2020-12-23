@@ -6,7 +6,7 @@ tags:
   - TosK_INT
 ---
 
-![cover.jpg](https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/00-jay_chou-huo_yuan_chia-cn-2006-proof-tosk.jpg)
+![cover.jpg](https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/00-jay_chou-huo_yuan_chia-cn-2006-proof-tosk.jpg)
 
 
 <retrotxt v-slot>
@@ -134,8 +134,8 @@ TTTTTTT      TTTTTTOO      OOOO       OO SS       SS SS   KK               KK
           {
             name: '獻世',
             artist: '周杰倫',
-            url: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/02-jay_chou-face_the_world-tosk.mp3',
-            cover: 'https://goindex.65style.workers.dev/3:/Music/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/00-jay_chou-huo_yuan_chia-cn-2006-proof-tosk.jpg',
+            url: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/02-jay_chou-face_the_world-tosk.mp3',
+            cover: 'https://goindex.65style.workers.dev/3:/Music/MP3/Jay_Chou-Huo_Yuan_Chia-CN-2006-TosK_INT/00-jay_chou-huo_yuan_chia-cn-2006-proof-tosk.jpg',
             theme: '#ebd0c2'
           },
         ]
